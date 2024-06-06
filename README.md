@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huynh Hai Trieu - Tide</h1>
 <h3 align="center">A passionate in Data Engineering and Data Science</h3>
 
-<img align="right" width="400" height="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJkdDA5N2t3amEyNmk0cWNsNDRjOXZjdzJoNTJmN2Z6bXMyeGFvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
+<img align="right" width="400" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJkdDA5N2t3amEyNmk0cWNsNDRjOXZjdzJoNTJmN2Z6bXMyeGFvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhtrieu0108&label=Profile%20views&color=0e75b6&style=flat" alt="hhtrieu0108" /> </p>
 
 - 🌱 I’m currently learning and working in **Data Engineering and Data Science**
