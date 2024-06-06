@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhtrieu0108&label=Profile%20views&color=0e75b6&style=flat" alt="hhtrieu0108" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hhtrieu0108" alt="hhtrieu0108" /></a> </p>
-
 - 🌱 I’m currently learning and working in **Data Engineering and Data Science**
 
 - 💬 Ask me about **Python, Data Engineering and Data Science**
