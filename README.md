@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhtrieu0108&label=Profile%20views&color=0e75b6&style=flat" alt="hhtrieu0108" /> </p>
 
+- <img align="right" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJkdDA5N2t3amEyNmk0cWNsNDRjOXZjdzJoNTJmN2Z6bXMyeGFvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
 - 🌱 I’m currently learning and working in **Data Engineering and Data Science**
 
 - 💬 Ask me about **Python, Data Engineering and Data Science**
 
 - 📫 How to reach me **hhtrieu01082003@gmail.com**
 
-- <img align="right" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJkdDA5N2t3amEyNmk0cWNsNDRjOXZjdzJoNTJmN2Z6bXMyeGFvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
