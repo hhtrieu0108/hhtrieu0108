@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **hhtrieu01082003@gmail.com**
 
-<p align="right"><img src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc"/>
-</p>
+<p align="right"> <img src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" alt="hhtrieu0108" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
