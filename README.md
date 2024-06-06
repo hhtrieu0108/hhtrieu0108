@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hhtrieu01082003@gmail.com**
 
-- <p align="right"> <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJkdDA5N2t3amEyNmk0cWNsNDRjOXZjdzJoNTJmN2Z6bXMyeGFvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" /> </p>
+- <img align="right" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJkdDA5N2t3amEyNmk0cWNsNDRjOXZjdzJoNTJmN2Z6bXMyeGFvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
