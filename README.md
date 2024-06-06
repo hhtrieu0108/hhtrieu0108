@@ -2,7 +2,7 @@
 <h3 align="center">A passionate in Data Engineering/Data Science</h3>
 
 
-<img align="right" width="400" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJkdDA5N2t3amEyNmk0cWNsNDRjOXZjdzJoNTJmN2Z6bXMyeGFvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
+<img align="right" width="450" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR0bnF0b2c4d3N6NTZhMjM5NDlvZzN0Y3Yybm12dWQ5N3pvcTNkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oPNq5A3IZC6bugJXeS/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhtrieu0108&label=Profile%20views&color=0e75b6&style=flat" alt="hhtrieu0108" /> </p>
 
 - 🌱 I’m currently learning and working in **Data Engineering/Data Science**
