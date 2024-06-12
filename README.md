@@ -53,7 +53,7 @@
  <img width="12" />
  <code><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="35" alt="seaborn logo" /></code>
  <img width="12" />
- <code><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181246db2f6b1a3f8/svg/selenium-logo.svg" height="35" alt="selenium logo" /></code>
+ <code><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181246db2f6b1a3f8/svg/selenium-logo.svg" height="30" alt="selenium logo" /></code>
 </div>
 
 
