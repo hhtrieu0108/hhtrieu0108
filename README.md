@@ -55,7 +55,7 @@
  <img width="12" />
  <code><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" alt="selenium logo" /></code>
  <img width="12" />
- <code><img src="https://cassandra.apache.org/img/cassandra_logo.svg" height="40" alt="cassandra logo" /></code>
+ <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" height="40" alt="cassandra logo" /></code>
 </div>
 
 
