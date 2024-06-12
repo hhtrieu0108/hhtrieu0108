@@ -17,46 +17,120 @@
 <a href="https://fb.com/hhtrieu0108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hhtrieu0108" height="30" width="40" /></a>
 </p>
 
+
+
+
 ## Languages and Tools:
-<div align="left">
- <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" /></code>
- <img width="12" />
- <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" /></code>
- <img width="12" />
- <code><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40" alt="kafka logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" /></code>
- <img width="12" />
- <code><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="mssql logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" /></code>
- <img width="12" />
- <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" height="40" alt="scala logo" /></code>
- <img width="12" />
- <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit_learn logo" /></code>
- <img width="12" />
- <code><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" alt="selenium logo" /></code>
- <img width="12" />
- <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" height="40" alt="cassandra logo" /></code>
-</div>
+<table>
+   <!-- Databases Row -->
+  <tr>
+    <th colspan="6" align="center">Databases</th>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MSSQL" alt="MSSQL" width="55" height="55"/>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" title="Cassandra" alt="Cassandra" width="55" height="55"/>
+    </td>
+  </tr>
+ 
+  <!-- Languages Row -->
+  <tr>
+    <th colspan="6" align="center">Languages</th>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="55" height="55"/>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="55" height="55"/>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="55" height="55"/>
+    </td>
+  </tr>
+
+  <!-- Data Analysis/Data Science Row -->
+  <tr>
+    <th colspan="6" align="center">Data Analysis/Data Science</th>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/>
+    </td>
+  </tr>
+
+  <!-- DevOps Row -->
+  <tr>
+    <th colspan="6" align="center">DevOps</th>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="55" height="55"/>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Kafka" alt="Kafka" width="55" height="55"/>
+    </td>
+  </tr>
+  
+  <!-- Tools Row -->
+  <tr>
+    <th colspan="6" align="center">Tools</th>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="140">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="55" height="55"/>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium" alt="Selenium" width="55" height="55"/>
+    </td>
+  </tr>
+
+  <!-- Operating Systems Row -->
+  <tr>
+    <th colspan="6" align="center">Operating Systems</th>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>
+    </td>
+  </tr>
+
+  <!-- Shell Scripting Row -->
+  <tr>
+    <th colspan="6" align="center">Shell Scripting</th>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="140">
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="55" height="55"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
