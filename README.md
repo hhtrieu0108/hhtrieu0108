@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Data Engineering and Data Science**
 
-- 📫 How to reach me **hhtrieu01082003@gmail.com**
+- 📫 How to reach me: **hhtrieu01082003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
