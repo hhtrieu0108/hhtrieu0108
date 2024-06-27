@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huynh Hai Trieu - Tide</h1>
-<h3 align="center">A passionate in Data Engineering/Data Science</h3>
+<h3 align="center">I am passionate about Data Engineering and Data Science</h3>
 
 
 <img align="right" width="450" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR0bnF0b2c4d3N6NTZhMjM5NDlvZzN0Y3Yybm12dWQ5N3pvcTNkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oPNq5A3IZC6bugJXeS/giphy.gif" />
