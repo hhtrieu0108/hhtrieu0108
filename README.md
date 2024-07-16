@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Huynh Hai Trieu - Tide</h1>
-<h3 align="center">I am passionate about Data Engineering and Data Science</h3>
+<div style="text-align: center;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I'm+Huynh+Hai+Trieu+-+Tide;%20I%20am+passionate+about+Data+Engineering+and+Data+Science&font=Fira%20Code&center=true&width=700&height=100&duration=4000&pause=1000&color=00c000" style="width: 100%; max-width: 700px;">
+</div>
 
+$${\color{green}\textbf{Data Engineering/Data Science}}$$
 
 <img align="right" width="400" height="230" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVzOGw4bmNienkwd2V3MHI4dXI5ZDlkMGNzYXd6NmVycXFmYzZ6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhtrieu0108&label=Profile%20views&color=0e75b6&style=flat" alt="hhtrieu0108" /> </p>
 
-- 🌱 I’m working in **Data Engineering/Data Science**
+- $${🌱\color{green}I'm \space working \space in: \space \textbf{Data Engineering/Data Science}}$$
+-  I’m working in **Data Engineering/Data Science**
 
 - 📫 How to reach me: **hhtrieu01082003@gmail.com**
 
