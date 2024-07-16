@@ -1,8 +1,8 @@
 <div style="text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I'm+Huynh+Hai+Trieu+-+Tide&font=Fira%20Code&center=true&width=700&height=100&duration=4000&pause=1000&color=00c000" style="width: 100%; max-width: 700px;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I'm+Huynh+Hai+Trieu+-+Tide&font=Fira%20Code&center=true&width=700&height=40&duration=4000&pause=1000&color=00c000" style="width: 100%; max-width: 700px;">
 
 <div style="text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+Data+Engineering+and+Data+Science&font=Fira%20Code&center=true&width=700&height=100&duration=4000&pause=1000&color=00c000" style="width: 100%; max-width: 700px;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+Data+Engineering+and+Data+Science&font=Fira%20Code&center=true&width=700&height=40&duration=4000&pause=1000&color=00c000" style="width: 100%; max-width: 700px;">
 </div>
 
 <img align="right" width="400" height="230" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVzOGw4bmNienkwd2V3MHI4dXI5ZDlkMGNzYXd6NmVycXFmYzZ6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" />
