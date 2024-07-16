@@ -29,6 +29,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          palette: |
+            - "#0000ff"  # Snake color
+            - "#ffffff"  # Background color
+            - "#ebedf0"  # Grid color
+            - "#c6e48b"  # Activity color (light green)
+            - "#239a3b"  # Activity color (medium green)
+            - "#196127"  # Activity color (dark green)
+            - "#0349ff"  # Snake head color
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
