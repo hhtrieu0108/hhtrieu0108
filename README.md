@@ -76,5 +76,6 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=hhtrieu0108&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/hhtrieu0108/hhtrieu0108/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/hhtrieu0108/hhtrieu0108/blob/output/github-contribution-grid-snake2.svg)
+
 
