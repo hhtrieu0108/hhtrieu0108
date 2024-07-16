@@ -73,7 +73,7 @@
 </div>
 
 ## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hhtrieu0108&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hhtrieu0108&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/hhtrieu0108/hhtrieu0108/output/github-contribution-grid-snake-dark.svg)
