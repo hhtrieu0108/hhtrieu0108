@@ -25,14 +25,14 @@
 ## Languages and Tools:
 <div align="left">
  <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" alt="bash logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" alt="css3 logo" /></code>
+<!--  <img width="12" />
+ <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" alt="css3 logo" /></code> -->
  <img width="12" />
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo" /></code>
  <img width="12" />
  <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git logo" /></code>
- <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" alt="html5 logo" /></code>
+<!--  <img width="12" />
+ <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" alt="html5 logo" /></code> -->
  <img width="12" />
  <code><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="30" alt="kafka logo" /></code>
  <img width="12" />
