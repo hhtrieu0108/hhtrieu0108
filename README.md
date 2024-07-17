@@ -54,13 +54,13 @@
      <img width="12" />
      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" height="30" alt="scala logo" /></code>
      <img width="12" />
-     <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit_learn logo" /></code>
-     <img width="12" />
      <code><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30" alt="seaborn logo" /></code>
      <img width="12" />
      <code><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="30" alt="selenium logo" /></code>
      <img width="12" />
      <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" height="30" alt="cassandra logo" /></code>
+     <img width="12" />
+     <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit_learn logo" /></code>
 </div>
 
 
