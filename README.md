@@ -69,10 +69,10 @@
 
 ## My Journey
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=hhtrieu0108&show_icons=true&theme=merko">
+<!--   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=hhtrieu0108&show_icons=true&theme=merko"> -->
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hhtrieu0108&layout=compact&theme=merko"/>
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=hhtrieu0108&theme=merko">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=hhtrieu0108&theme=merko"/>
+  <img align="center" width="775px" src="https://github-readme-activity-graph.vercel.app/graph?username=hhtrieu0108&theme=merko">
 </div>
 
 ## My Rewards
