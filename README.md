@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhtrieu0108&label=Profile%20views&color=0e75b6&style=flat" alt="hhtrieu0108" /> </p>
 
--  I’m working in **Data Engineering/Data Science**
+-  I’m working in **Data Engineer / Data Analyst / Data Scientist**
 
 - 📫 How to reach me: **hhtrieu01082003@gmail.com**
 
