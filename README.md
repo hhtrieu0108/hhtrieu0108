@@ -20,25 +20,17 @@
 </p>
 
 
-
-
 ## Languages and Tools:
-<div align="left">
+<div align="center">
      <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" alt="bash logo" /></code>
-<!--  <img width="12" />
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" alt="css3 logo" /></code> -->
      <img width="12" />
      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo" /></code>
      <img width="12" />
      <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git logo" /></code>
-    <!--  <img width="12" />
-     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" alt="html5 logo" /></code> -->
      <img width="12" />
      <code><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="30" alt="kafka logo" /></code>
      <img width="12" />
      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="linux logo" /></code>
-     <img width="12" />
-     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongodb logo" /></code>
      <img width="12" />
      <code><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="30" alt="mssql logo" /></code>
      <img width="12" />
@@ -48,8 +40,6 @@
      <img width="12" />
      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo" /></code>
      <img width="12" />
-     <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="postman logo" /></code>
-     <img width="12" />
      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="python logo" /></code>
      <img width="12" />
      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" height="30" alt="scala logo" /></code>
@@ -58,27 +48,11 @@
      <img width="12" />
      <code><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="30" alt="selenium logo" /></code>
      <img width="12" />
-     <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" height="30" alt="cassandra logo" /></code>
-     <img width="12" />
      <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit_learn logo" /></code>
 </div>
 
-
-
-
-
-## My Journey
-<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=hhtrieu0108&show_icons=true&theme=merko">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hhtrieu0108&layout=compact&theme=merko" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=hhtrieu0108&theme=merko">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=hhtrieu0108&theme=merko" />
-</div>
-
-## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hhtrieu0108&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## My Contributes
-![Snake animation](https://raw.githubusercontent.com/hhtrieu0108/hhtrieu0108/output/github-contribution-grid-snake-dark.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hhtrieu0108/hhtrieu0108/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
 
