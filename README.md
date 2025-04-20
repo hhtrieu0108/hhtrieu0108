@@ -1,5 +1,6 @@
 <div style="text-align: center;">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I'm+Huynh+Hai+Trieu+-+Tide&font=Fira%20Code&center=true&width=700&height=40&duration=4000&pause=1000&color=00c000" style="width: 100%; max-width: 700px;">
+</div>
 
 <div style="text-align: center;">
     <img src="https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+Data+Engineering+and+Data+Science&font=Fira%20Code&center=true&width=700&height=40&duration=4000&pause=1000&color=00c000" style="width: 100%; max-width: 700px;">
