@@ -1,9 +1,9 @@
 <div style="text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Huynh+Hai+Trieu+-+Tide&font=Fira%20Code&center=true&width=700&height=40&duration=4000&pause=1000&color=00c000" style="width: 100%; max-width: 700px;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Huynh+Hai+Trieu+-+Tide&font=Fira%20Code&center=true&width=700&height=40&duration=4000&pause=1000&color=#2596be" style="width: 100%; max-width: 700px;">
 </div>
 
 <div style="text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+Data+Engineering+and+Data+Science&font=Fira%20Code&center=true&width=700&height=40&duration=4000&pause=1000&color=00c000" style="width: 100%; max-width: 700px;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+Data+Engineering+and+Data+Science&font=Fira%20Code&center=true&width=700&height=40&duration=4000&pause=1000&color=#2596be" style="width: 100%; max-width: 700px;">
 </div>
 
 <img align="right" width="400" height="230" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVzOGw4bmNienkwd2V3MHI4dXI5ZDlkMGNzYXd6NmVycXFmYzZ6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" />
@@ -53,7 +53,10 @@
 </div>
 
 ## My Contributes
-<p align="center">
+![Trieu's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=hhtrieu0108&theme=react-dark)
+
+<!--
+<p align="center>
   <img src="https://raw.githubusercontent.com/hhtrieu0108/hhtrieu0108/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
-
+-->
