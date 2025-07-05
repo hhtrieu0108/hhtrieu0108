@@ -55,7 +55,7 @@
 </div>
 -->
 
-## My Contributes
+<!--## My Contributes-->
 ![Trieu's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=hhtrieu0108&theme=react-dark)
 
 <!--
