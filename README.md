@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/trieuhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trieuhh" height="30" width="40" /></a>
 </p>
 
-
+<!--
 ## Languages and Tools:
 <div align="center">
      <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" alt="bash logo" /></code>
@@ -51,7 +51,7 @@
      <img width="12" />
      <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit_learn logo" /></code>
 </div>
-
+-->
 ## My Contributes
 ![Trieu's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=hhtrieu0108&theme=react-dark)
 
