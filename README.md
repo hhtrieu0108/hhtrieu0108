@@ -6,12 +6,22 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+Data+Engineering+and+Data+Science&font=Fira%20Code&center=true&width=700&height=40&duration=4000&pause=1000&color=#2596be" style="width: 100%; max-width: 700px;">
 </div>
 
+<div align="center">
+    <img src="./assets/cute-dog-coding.png" style="width: 400px; height: auto;">
+</div>
+
+
+
+
+<!--
 <img align="center" width="400" height="230" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVzOGw4bmNienkwd2V3MHI4dXI5ZDlkMGNzYXd6NmVycXFmYzZ6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" />
+-->
+
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhtrieu0108&label=Profile%20views&color=0e75b6&style=flat" alt="hhtrieu0108" /> </p>
 -->
-<br><br>
+
 <!--
 ## Languages and Tools:
 <div align="center">
